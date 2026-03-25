@@ -13,7 +13,7 @@ function Section4() {
 
 
                 <div className="main4_1">
-                    <img src={one}/>
+                    <img src={one} alt='one'/>
                         <h3>2023 Python Data Visualization MasterclassName</h3>
                         <p>col steel</p>
                         <p>4.8 <i className="fa-solid fa-star" style={{ color: '#FFD43B' }}></i> <i className="fa-solid fa-star"
@@ -23,7 +23,7 @@ function Section4() {
                 </div>
 
                 <div className="main4_1">
-                    <img src={two}/>
+                    <img src={two} alt='two'/>
                         <h3>2023 Python Data Visualization MasterclassName</h3>
                         <p>col steel</p>
                         <p>2.8 <i className="fa-solid fa-star" style={{ color: '#FFD43B' }}></i> <i className="fa-solid fa-star"
@@ -32,7 +32,7 @@ function Section4() {
                 </div>
 
                 <div className="main4_1">
-                    <img src={three}/>
+                    <img src={three} alt='three'/>
                         <h3>2023 Python Data Visualization MasterclassName</h3>
                         <p>col steel</p>
                         <p>4.0<i className="fa-solid fa-star" style={{ color: '#FFD43B' }}></i> <i className="fa-solid fa-star"
@@ -42,7 +42,7 @@ function Section4() {
                 </div>
 
                 <div className="main4_1">
-                    <img src={four}/>
+                    <img src={four} alt='four'/>
                         <h3>2023 Python Data Visualization MasterclassName</h3>
                         <p>col steel</p>
                         <p>3.8 <i className="fa-solid fa-star" style={{ color: '#FFD43B' }}></i> <i className="fa-solid fa-star"

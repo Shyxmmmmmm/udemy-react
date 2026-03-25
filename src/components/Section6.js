@@ -10,7 +10,7 @@ function Footer() {
             <p>pick the best fit</p>
             <div class="cls6_1">
                 <div class="main4_1">
-                    <img src={one}/>
+                    <img src={one} alt='one'/>
                         <h3>2023 Python Data Visualization Masterclass</h3>
                         <p>col steel</p>
                         <p>4.8 <i class="fa-solid fa-star" style={{color: '#FFD43B'}}></i> <i class="fa-solid fa-star"
@@ -20,7 +20,7 @@ function Footer() {
                 </div>
 
                 <div class="main4_1">
-                    <img src={two}/>
+                    <img src={two} alt='one'/>
                         <h3>2023 Python Data Visualization Masterclass</h3>
                         <p>col steel</p>
                         <p>2.8 <i class="fa-solid fa-star" style={{color: '#FFD43B'}}></i> <i class="fa-solid fa-star"
@@ -29,7 +29,7 @@ function Footer() {
                 </div>
 
                 <div class="main4_1">
-                    <img src={three}/>
+                    <img src={three} alt='one'/>
                         <h3>2023 Python Data Visualization Masterclass</h3>
                         <p>col steel</p>
                         <p>4.0<i class="fa-solid fa-star" style={{color: '#FFD43B'}}></i> <i class="fa-solid fa-star"
@@ -39,7 +39,7 @@ function Footer() {
                 </div>
 
                 <div class="main4_1">
-                    <img src={four}/>
+                    <img src={four} alt='one'/>
                         <h3>2023 Python Data Visualization Masterclass</h3>
                         <p>col steel</p>
                         <p>3.8 <i class="fa-solid fa-star" style={{color: '#FFD43B'}}></i> <i class="fa-solid fa-star"
@@ -48,7 +48,7 @@ function Footer() {
                 </div>
 
                 <div class="main4_1">
-                    <img src={one}/>
+                    <img src={one} alt='one'/>
                         <h3>2023 Python Data Visualization Masterclass</h3>
                         <p>col steel</p>
                         <p>4.8 <i class="fa-solid fa-star" style={{color: '#FFD43B'}}></i> <i class="fa-solid fa-star"
@@ -58,7 +58,7 @@ function Footer() {
                 </div>
 
                 <div class="main4_1">
-                    <img src={two}/>
+                    <img src={two} alt='one'/>
                         <h3>2023 Python Data Visualization Masterclass</h3>
                         <p>col steel</p>
                         <p>2.8 <i class="fa-solid fa-star" style={{color: '#FFD43B'}}></i> <i class="fa-solid fa-star"
@@ -67,7 +67,7 @@ function Footer() {
                 </div>
 
                 <div class="main4_1">
-                    <img src={three}/>
+                    <img src={three} alt='one'/>
                         <h3>2023 Python Data Visualization Masterclass</h3>
                         <p>col steel</p>
                         <p>4.0<i class="fa-solid fa-star" style={{color: '#FFD43B'}}></i> <i class="fa-solid fa-star"
@@ -77,7 +77,7 @@ function Footer() {
                 </div>
 
                 <div class="main4_1">
-                    <img src={four}/>
+                    <img src={four} alt='one'/>
                         <h3>2023 Python Data Visualization Masterclass</h3>
                         <p>col steel</p>
                         <p>3.8 <i class="fa-solid fa-star" style={{color: '#FFD43B'}}></i> <i class="fa-solid fa-star"
